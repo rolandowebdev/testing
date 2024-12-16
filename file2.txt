@@ -1,1 +1,1 @@
-ini file 2 untuk merge conflict
+ini file 2 for test stash from feat/d branch

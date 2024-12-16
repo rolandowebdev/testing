@@ -1,2 +1,2 @@
-ini file 1 edit test cherry pick
+ini file 1 edit test stash
 

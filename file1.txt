@@ -1,2 +1,2 @@
-ini file 1 edit untuk merge conflict
+ini file 1 edit test cherry pick
 
